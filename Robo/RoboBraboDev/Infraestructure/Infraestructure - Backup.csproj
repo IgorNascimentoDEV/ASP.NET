@@ -1,0 +1,17 @@
+﻿    <Project Sdk="Microsoft.NET.Sdk">
+
+      <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+      </PropertyGroup>
+
+      <ItemGroup>
+        <PackageReference Include="EFCore.BulkExtensions" Version="8.0.2" />
+        <PackageReference Include="EntityFramework" Version="6.4.4" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+
+	  </ItemGroup>		  <ProjectReference Include="C:\Users\igor.sn\Documents\GitHub\Robo\RoboBraboDev\Domain\Domain.csproj" />
+
+    </Project>

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CE1AE8-0307-48AD-9D30-D482E3E16EE2}|Infraestructure\\Infraestructure.csproj|c:\\users\\igor.sn\\documents\\github\\robo\\robobrabodev\\infraestructure\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CE1AE8-0307-48AD-9D30-D482E3E16EE2}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C0A4E-5573-43A9-A34B-763AFC9A0FE2}|Domain\\Domain.csproj|c:\\users\\igor.sn\\documents\\github\\robo\\robobrabodev\\domain\\entidades\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C0A4E-5573-43A9-A34B-763AFC9A0FE2}|Domain\\Domain.csproj|solutionrelative:domain\\entidades\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C0A4E-5573-43A9-A34B-763AFC9A0FE2}|Domain\\Domain.csproj|c:\\users\\igor.sn\\documents\\github\\robo\\robobrabodev\\domain\\interfaces\\repository\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C0A4E-5573-43A9-A34B-763AFC9A0FE2}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repository\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CE1AE8-0307-48AD-9D30-D482E3E16EE2}|Infraestructure\\Infraestructure.csproj|c:\\users\\igor.sn\\documents\\github\\robo\\robobrabodev\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96CE1AE8-0307-48AD-9D30-D482E3E16EE2}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C0A4E-5573-43A9-A34B-763AFC9A0FE2}|Domain\\Domain.csproj|c:\\users\\igor.sn\\documents\\github\\robo\\robobrabodev\\domain\\enums\\enumstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C0A4E-5573-43A9-A34B-763AFC9A0FE2}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\enumstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CE1AE8-0307-48AD-9D30-D482E3E16EE2}|Infraestructure\\Infraestructure.csproj|c:\\users\\igor.sn\\documents\\github\\robo\\robobrabodev\\infraestructure\\brabodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CE1AE8-0307-48AD-9D30-D482E3E16EE2}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\brabodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnumStatus.cs",
+              "DocumentMoniker": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Enums\\EnumStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\EnumStatus.cs",
+              "ToolTip": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Enums\\EnumStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\EnumStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:52:42.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:48:56.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Entidades\\Endereco.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Endereco.cs",
+              "ToolTip": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Entidades\\Endereco.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:29:01.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Infraestructure\\Repositories\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Infraestructure\\Repositories\\EnderecoRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\EnderecoRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wDMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:24:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T00:57:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BraboDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Infraestructure\\BraboDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\BraboDbContext.cs",
+              "ToolTip": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Infraestructure\\BraboDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\BraboDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:22:19.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
