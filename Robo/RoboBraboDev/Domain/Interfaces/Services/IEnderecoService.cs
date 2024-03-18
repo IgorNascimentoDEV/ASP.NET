@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.Services
 {
-    internal interface IEnderecoService
+    public interface IEnderecoService
     {
         Task Add(List<EnderecoModel> enderecos);
         Task AtualizarDados(EnderecoModel endereco);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OctJdtyQFM+vC8Yao7JNP0blPX6dn02vKGlTwWsaeGiVKbVT15Da2Je8Nk0nAizuAh5lvzkikat35iCyflv9nA==",
+  "dgSpecHash": "2T4oaUDPfOUqHr9kdZsFMSgnOWE2oUPOiZzVaajrcjf+4xwNaSPbDwJ5TWDd50jp0rrFHzqqr+7Nl9YV8YPlWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\igor.sn\\Documents\\ASP.NET\\Robo\\RoboBraboDev\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\igor.sn\\Documents\\ASP.NET\\Robo\\RoboBraboDev\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\igor.sn\\Documents\\ASP.NET\\Robo\\RoboBraboDev\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\igor.sn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igor.sn\\Documents\\GitHub\\Robo\\RoboBraboDev\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\igor.sn\\Documents\\ASP.NET\\Robo\\RoboBraboDev\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igor.sn\\AppData\\Roaming\\NuGet\\NuGet.Config",

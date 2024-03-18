@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EyhLyioxsP35pnD2r2Q40JADU9zqhmLx5g9EA7WjlCbmsGKtDZm/ZdgF9uHvG3w31GrCP94QPE4U2zzk+/N3Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igor.sn\\Documents\\ASP.NET\\Robo\\RoboBraboDev\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor.sn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\igor.sn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\igor.sn\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\igor.sn\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\igor.sn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\igor.sn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
